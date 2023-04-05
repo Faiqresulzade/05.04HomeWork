@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\bin\Debug\netcoreapp3.1\Fight_game.exe
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\bin\Debug\netcoreapp3.1\Fight_game.deps.json
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\bin\Debug\netcoreapp3.1\Fight_game.runtimeconfig.json
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\bin\Debug\netcoreapp3.1\Fight_game.runtimeconfig.dev.json
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\bin\Debug\netcoreapp3.1\Fight_game.dll
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\bin\Debug\netcoreapp3.1\Fight_game.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.AssemblyInfo.cs
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.dll
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.pdb
+C:\Users\Honor\Desktop\ag201\homeWork\05.04HomeWork\Fight_game\Fight_game\obj\Debug\netcoreapp3.1\Fight_game.genruntimeconfig.cache
